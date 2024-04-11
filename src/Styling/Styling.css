@@ -1,0 +1,69 @@
+
+
+.sqaure-container{
+    width: 230px;
+    height: 555px;
+    background-color: aquamarine;
+    display:flex;
+    flex-direction: column; 
+     align-items: center;
+    justify-content: center;
+    margin:68px;
+    font-style: italic;
+    border:2px solid black ;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: 500;
+}
+.triangle_container{
+    background-color: rgb(133, 20, 174);
+    font-style: italic;
+    display:flex;
+    flex-direction: column; 
+     align-items: center;
+    justify-content: center;
+    width: 230px;
+    height: 555px;
+    margin:68px;
+    font-weight: 500;
+    border:2px solid black ;
+    border-radius: 10px;
+}
+
+#circle{
+    background-color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    width: 230px;
+    height: 555px;
+    margin:68px;
+    display:flex;
+    flex-direction: column; 
+     align-items: center;
+    justify-content: center;
+    border:2px solid black ;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: 500;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    font-weight: 500;
+    flex-direction: column;
+}
+.form-1{
+    background-color:cadetblue;
+    width:500px;
+    margin:5px;
+    height: 45px;
+    border: 2px solid black;
+    border-radius: 15px;
+    font-size: larger;
+    font-weight: 500;
+    flex-direction: column;
+
+   
+}
